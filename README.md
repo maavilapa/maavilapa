@@ -1,13 +1,16 @@
 <h1 align="center">Hi there 👋, I'm Mateo Avila Pava</h1>
-<h3 align="center">I'm a Data Scientist and Deep Learning Researcher from Colombia CO. </h3>
+<h3 align="center">Data Scientist and Deep Learning Researcher | BSc in Mechatronics Engineering | MSc in Medical Robotics</h3>
 
-- 💻 I graduated from BSc in Mechatronics Engineering at the National University of Colombia (UNAL).
-- 🔭 I’m currently working as Student Assistant at Fraunhofer IIS in Erlangen.
-- 🤖 I’m Currently studying my last semester of the MSc in Medical Robotics at FAU Erlangen-Nürnberg
+<p align="center">
+  💼 Working as Student Assistant at Fraunhofer IIS, Erlangen <br>
+  🎓 Currently completing my MSc in Medical Robotics at FAU Erlangen-Nürnberg
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mateoavila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateoavila" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mateoavila" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateoavila" height="30" width="40" /></a>
+</p>
+
 
 
 <!--
